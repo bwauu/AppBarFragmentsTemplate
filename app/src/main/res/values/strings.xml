@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaveDataBetweenFragmentSwitcher</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_am_a_textview_in_fragment_a_xml">I am a TextView in fragment_a.xml</string>
+    <string name="i_dont_like_fragment_a_xml">I dont like fragment_a.xml :(</string>
+</resources>

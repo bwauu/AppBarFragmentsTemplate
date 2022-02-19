@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 1. Create a menu directory in res folder. [DONE]
+    (Right-click on res>New>Android Resource Directory>Resource Type>menu>ok  -->
+    <!-- 2. Create a Menu Resource File for two menu items [DONE] -->
+    <!-- 3. Add two items with icons and text with id[DONE] -->
+    <!-- 3.1 Create icons - Right-click on "drawable>New>Vector Asset>Choose desired attributes>ok>ok>   -->
+    <!-- Only support up to five menu items -->
+    <!-- Here is 2/5 -->
+    <item android:id="@+id/home_icon"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item android:id="@+id/favorite_icon"
+        android:title="Favorites"
+        android:icon="@drawable/ic_baseline_favorite_24" />
+    <!-- In this template you can create or replace these items with your own -->
+</menu>
